@@ -1,4 +1,4 @@
-# ***"Other and Self Services Analysis"***
+# ***"Other Services Analysis"***
 
 **Other Services Analysis** |**Description**
 ----------------------------|----------------------------------
